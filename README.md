@@ -1,1 +1,3 @@
 # Miki
+
+Programming fundamentals exercising
